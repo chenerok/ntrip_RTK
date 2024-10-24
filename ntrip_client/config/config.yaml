@@ -1,0 +1,6 @@
+common:
+  serverAddress: "203.107.45.154"
+  erverPort: 8002;
+  mountPoint: "AUTO";
+  username: "qxcorsh0077791";
+  password: "cc52aa7";
